@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="jdydxt archive">
+    <output-path>$PROJECT_DIR$/out/artifacts/jdydxt_archive</output-path>
+    <root id="archive" name="jdydxt archive.war">
+      <element id="artifact" artifact-name="jdydxt" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jdydxt" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

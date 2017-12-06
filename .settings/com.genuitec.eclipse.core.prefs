@@ -1,0 +1,4 @@
+#Thu Jul 13 13:48:29 CST 2017
+eclipse.preferences.version=1
+validator.Checked=WebRoot/js/vailjs/jquery.validate.min.js,WebRoot/js/vailjs/jquery.validate.js
+validator.Unchecked=
