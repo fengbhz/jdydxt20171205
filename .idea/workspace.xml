@@ -6,51 +6,18 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f1dbf63-2576-4aa9-aedf-47e866327aa1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/admin/images/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/extjs/images/access/box/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/extjs/ux/uploadpanel/images/types/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/extjs/ux/uploadpanel/images/types/large/files/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/extjs/ux/uploadpanel/images/types/large/folders/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/extjs/ux/uploadpanel/images/types/medium/folders/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/extjs/ux/uploadpanel/images/types/small/files/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/extjs/ux/uploadpanel/images/types/small/folders/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/js/extjs/images/access/box/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/js/extjs/ux/uploadpanel/images/types/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/js/extjs/ux/uploadpanel/images/types/large/files/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/js/extjs/ux/uploadpanel/images/types/large/folders/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/js/extjs/ux/uploadpanel/images/types/medium/folders/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/js/extjs/ux/uploadpanel/images/types/small/files/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/js/extjs/ux/uploadpanel/images/types/small/folders/Thumbs.db" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="2f1dbf63-2576-4aa9-aedf-47e866327aa1" name="Default" comment="修改项目结构">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/Contrller/BaseController.java" afterPath="$PROJECT_DIR$/src/com/vdong/Contrller/BaseController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/Contrller/HotelManagerController.java" afterPath="$PROJECT_DIR$/src/com/vdong/Contrller/HotelManagerController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/Contrller/OrderController.java" afterPath="$PROJECT_DIR$/src/com/vdong/Contrller/OrderController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/Contrller/ProductController.java" afterPath="$PROJECT_DIR$/src/com/vdong/Contrller/ProductController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/Contrller/UploadController.java" afterPath="$PROJECT_DIR$/src/com/vdong/Contrller/UploadController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/Contrller/UserController.java" afterPath="$PROJECT_DIR$/src/com/vdong/Contrller/UserController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/dao/ProductDao.java" afterPath="$PROJECT_DIR$/src/com/vdong/dao/ProductDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/dao/SystemCodeDao.java" afterPath="$PROJECT_DIR$/src/com/vdong/dao/SystemCodeDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/dao/impl/ProductDaoImpl.java" afterPath="$PROJECT_DIR$/src/com/vdong/dao/impl/ProductDaoImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/dao/impl/SystemCodeDaoImpl.java" afterPath="$PROJECT_DIR$/src/com/vdong/dao/impl/SystemCodeDaoImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/services/HotelManagerService.java" afterPath="$PROJECT_DIR$/src/com/vdong/services/HotelManagerService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/services/OrderManagerService.java" afterPath="$PROJECT_DIR$/src/com/vdong/services/OrderManagerService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/services/SystemCodeService.java" afterPath="$PROJECT_DIR$/src/com/vdong/services/SystemCodeService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/services/impl/HotelManagerServiceImpl.java" afterPath="$PROJECT_DIR$/src/com/vdong/services/impl/HotelManagerServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/services/impl/OrderManagerServiceImpl.java" afterPath="$PROJECT_DIR$/src/com/vdong/services/impl/OrderManagerServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/services/impl/SystemCodeServiceImpl.java" afterPath="$PROJECT_DIR$/src/com/vdong/services/impl/SystemCodeServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vdong/util/ReadProperties.java" afterPath="$PROJECT_DIR$/src/com/vdong/util/ReadProperties.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dycm/bean/Attach.java" afterPath="$PROJECT_DIR$/src/com/vdong/bean/Attach.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dycm/bean/Fkdate.java" afterPath="$PROJECT_DIR$/src/com/vdong/bean/Fkdate.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dycm/bean/LoginUser.java" afterPath="$PROJECT_DIR$/src/com/vdong/bean/LoginUser.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dycm/bean/Logo.java" afterPath="$PROJECT_DIR$/src/com/vdong/bean/Logo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dycm/bean/Msg.java" afterPath="$PROJECT_DIR$/src/com/vdong/bean/Msg.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dycm/bean/PriceManager.java" afterPath="$PROJECT_DIR$/src/com/vdong/bean/PriceManager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dycm/bean/PropertiesBean.java" afterPath="$PROJECT_DIR$/src/com/vdong/bean/PropertiesBean.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dycm/bean/QuickMark.java" afterPath="$PROJECT_DIR$/src/com/vdong/bean/QuickMark.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dycm/bean/fkLog.java" afterPath="$PROJECT_DIR$/src/com/vdong/bean/fkLog.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/dycm/bean/userbean.java" afterPath="$PROJECT_DIR$/src/com/vdong/bean/userbean.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/springmvc-servlet.xml" afterPath="$PROJECT_DIR$/src/springmvc-servlet.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vdong/Contrller/BaseController.java" afterPath="$PROJECT_DIR$/src/com/vdong/controller/BaseController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vdong/Contrller/HotelManagerController.java" afterPath="$PROJECT_DIR$/src/com/vdong/controller/HotelManagerController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vdong/Contrller/HotelMessageController.java" afterPath="$PROJECT_DIR$/src/com/vdong/controller/HotelMessageController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vdong/Contrller/LoginController.java" afterPath="$PROJECT_DIR$/src/com/vdong/controller/LoginController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vdong/Contrller/OrderController.java" afterPath="$PROJECT_DIR$/src/com/vdong/controller/OrderController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vdong/Contrller/ProductController.java" afterPath="$PROJECT_DIR$/src/com/vdong/controller/ProductController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vdong/Contrller/UploadController.java" afterPath="$PROJECT_DIR$/src/com/vdong/controller/UploadController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vdong/Contrller/UserController.java" afterPath="$PROJECT_DIR$/src/com/vdong/controller/UserController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/vdong/Contrller/VailYzController.java" afterPath="$PROJECT_DIR$/src/com/vdong/controller/VailYzController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/WebRoot/WEB-INF/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -112,7 +79,7 @@
         </entry>
       </file>
       <file leaf-file-name="HotelManagerController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/vdong/Contrller/HotelManagerController.java">
+        <entry file="file://$PROJECT_DIR$/src/com/vdong/controller/HotelManagerController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2780">
               <caret line="158" column="51" lean-forward="false" selection-start-line="158" selection-start-column="51" selection-end-line="158" selection-end-column="51" />
@@ -141,11 +108,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/config.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
               <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/vdong/controller/BaseController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -181,21 +158,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/vdong/util/Constants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" column="48" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>modProduct</find>
       <find>toSavelogo</find>
       <find>orde</find>
       <find>orderti</find>
@@ -225,10 +191,14 @@
       <find>alterSystem</find>
       <find>adStatus</find>
       <find>Vdong</find>
+      <find>Controller</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
+    <dirStrings>
+      <dir>J:\爱独家\jdydxt20171017\src\com\vdong\controller</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -382,13 +352,6 @@
               <item name="jdydxt20171017" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="vdong" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jdydxt20171017" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdydxt20171017" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="vdong" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -964,7 +927,7 @@
       <workItem from="1512552413242" duration="982000" />
       <workItem from="1512606921940" duration="2661000" />
       <workItem from="1512798112953" duration="13000" />
-      <workItem from="1512830427351" duration="175000" />
+      <workItem from="1512830427351" duration="355000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1512552805920</created>
@@ -973,11 +936,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512552805920</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改项目结构">
+      <created>1512830657321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1512830657321</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148652000" />
+    <option name="totallyTimeSpent" value="148832000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -990,7 +960,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1092" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3369036" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -1006,9 +975,10 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36004272" sideWeight="0.4948605" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36004272" sideWeight="0.4948605" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5050798" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32780486" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1027,7 +997,6 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Mybatis datasource" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32780486" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1078,7 +1047,8 @@
       <path value="$PROJECT_DIR$/jdydxt" />
     </ignored-roots>
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="修改项目结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改项目结构" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1111,13 +1081,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/vdong/dao/ProductDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/vdong/dao/impl/ProductDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2825">
@@ -1251,7 +1214,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/vdong/Contrller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/src/com/vdong/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11375">
           <caret line="474" column="69" lean-forward="false" selection-start-line="474" selection-start-column="62" selection-end-line="474" selection-end-column="69" />
@@ -1286,7 +1249,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/vdong/Contrller/ProductController.java">
+    <entry file="file://$PROJECT_DIR$/src/com/vdong/controller/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="332" column="50" lean-forward="false" selection-start-line="332" selection-start-column="50" selection-end-line="332" selection-end-column="50" />
@@ -1363,14 +1326,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/vdong/Contrller/HotelMessageController.java">
+    <entry file="file://$PROJECT_DIR$/src/com/vdong/controller/HotelMessageController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-103">
           <caret line="152" column="27" lean-forward="false" selection-start-line="152" selection-start-column="27" selection-end-line="152" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/vdong/Contrller/OrderController.java">
+    <entry file="file://$PROJECT_DIR$/src/com/vdong/controller/OrderController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="208" column="50" lean-forward="false" selection-start-line="208" selection-start-column="50" selection-end-line="208" selection-end-column="50" />
@@ -1436,7 +1399,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/vdong/Contrller/HotelManagerController.java">
+    <entry file="file://$PROJECT_DIR$/src/com/vdong/controller/HotelManagerController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2780">
           <caret line="158" column="51" lean-forward="false" selection-start-line="158" selection-start-column="51" selection-end-line="158" selection-end-column="51" />
@@ -1488,6 +1451,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vdong/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
           <folding />
         </state>
       </provider>

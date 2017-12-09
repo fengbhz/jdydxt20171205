@@ -1,4 +1,4 @@
-package com.vdong.Contrller;
+package com.vdong.controller;
 
 import com.vdong.db.DBManager;
 import com.vdong.services.HotelManagerService;

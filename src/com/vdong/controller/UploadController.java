@@ -1,8 +1,8 @@
-package com.vdong.Contrller;
+package com.vdong.controller;
 
-import java.io.File;
-import java.util.UUID;
-
+import com.vdong.bean.Attach;
+import com.vdong.bean.Msg;
+import com.vdong.services.SystemCodeService;
 import org.apache.commons.io.FilenameUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -10,10 +10,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.vdong.services.SystemCodeService;
-
-import com.vdong.bean.Attach;
-import com.vdong.bean.Msg;
+import java.io.File;
+import java.util.UUID;
 
 /**
  * 文件上传处理

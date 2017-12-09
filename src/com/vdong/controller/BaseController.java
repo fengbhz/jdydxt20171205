@@ -1,25 +1,21 @@
-package com.vdong.Contrller;
+package com.vdong.controller;
 
-import java.io.IOException;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Properties;
-
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
-
+import com.vdong.Message.SendMessage;
+import com.vdong.bean.LoginUser;
+import com.vdong.services.OrderManagerService;
 import net.sf.json.JSONObject;
-
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Controller;
 
-import com.vdong.Message.SendMessage;
-import com.vdong.services.OrderManagerService;
-
-import com.vdong.bean.LoginUser;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Properties;
 
 
 

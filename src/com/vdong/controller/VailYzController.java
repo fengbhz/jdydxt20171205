@@ -1,4 +1,4 @@
-package com.vdong.Contrller;
+package com.vdong.controller;
 
 import java.io.IOException;
 import java.util.HashMap;

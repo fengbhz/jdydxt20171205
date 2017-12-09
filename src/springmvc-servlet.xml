@@ -14,7 +14,7 @@
 	
 	
 	<!-- 扫描业务组件 controller -->
-	<context:component-scan base-package="com.vdong.Contrller" />
+	<context:component-scan base-package="com.vdong.controller" />
 	<!-- <context:component-scan base-package="dycm.Service" /> -->
 	<!-- controller层的属性和配置文件读入 ,多个用逗号隔开 <context:property-placeholder location="classpath:/config/others/config.properties" 
 		/> -->
