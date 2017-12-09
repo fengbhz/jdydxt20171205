@@ -15,7 +15,7 @@ import com.vdong.util.Constants;
 import com.vdong.util.ReadProperties;
 import com.vdong.util.tool;
 
-import dycm.bean.LoginUser;
+import com.vdong.bean.LoginUser;
 
 @Service("orderManagerService")
 public class OrderManagerServiceImpl implements OrderManagerService {

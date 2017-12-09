@@ -3,7 +3,7 @@ package com.vdong.services;
 import java.util.List;
 import java.util.Map;
 
-import dycm.bean.LoginUser;
+import com.vdong.bean.LoginUser;
 
 public interface OrderManagerService {
 

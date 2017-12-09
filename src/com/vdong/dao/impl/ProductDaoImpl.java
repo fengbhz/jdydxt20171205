@@ -2,7 +2,7 @@ package com.vdong.dao.impl;
 
 import com.vdong.dao.ProductDao;
 import com.mysql.jdbc.Statement;
-import dycm.bean.PriceManager;
+import com.vdong.bean.PriceManager;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
 import org.springframework.dao.DuplicateKeyException;

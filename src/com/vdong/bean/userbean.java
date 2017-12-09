@@ -1,4 +1,4 @@
-package dycm.bean;
+package com.vdong.bean;
 /**
  * 用户信息实体类
  * @author lk

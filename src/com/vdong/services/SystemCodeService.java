@@ -3,7 +3,7 @@ package com.vdong.services;
 import java.util.List;
 import java.util.Map;
 
-import dycm.bean.Attach;
+import com.vdong.bean.Attach;
 
 /**
  * 系统配置项操作

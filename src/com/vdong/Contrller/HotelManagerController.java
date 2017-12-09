@@ -3,7 +3,7 @@ package com.vdong.Contrller;
 import com.vdong.db.DBManager;
 import com.vdong.services.HotelManagerService;
 import com.vdong.util.tool;
-import dycm.bean.Msg;
+import com.vdong.bean.Msg;
 import net.sf.json.JSONObject;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;

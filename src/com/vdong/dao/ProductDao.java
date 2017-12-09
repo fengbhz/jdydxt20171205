@@ -2,7 +2,7 @@ package com.vdong.dao;
 
 import java.util.List;
 
-import dycm.bean.PriceManager;
+import com.vdong.bean.PriceManager;
 
 public interface ProductDao {
 	/**

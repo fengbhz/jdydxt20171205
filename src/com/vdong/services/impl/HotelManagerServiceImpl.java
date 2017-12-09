@@ -11,7 +11,7 @@ import com.vdong.dao.ProductDao;
 import com.vdong.dao.UserManagerDao;
 import com.vdong.services.HotelManagerService;
 
-import dycm.bean.PriceManager;
+import com.vdong.bean.PriceManager;
 
 @Service("hotelManagerService")
 public class HotelManagerServiceImpl implements HotelManagerService{

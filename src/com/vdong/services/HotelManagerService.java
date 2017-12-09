@@ -3,7 +3,7 @@ package com.vdong.services;
 import java.util.List;
 import java.util.Map;
 
-import dycm.bean.PriceManager;
+import com.vdong.bean.PriceManager;
 
 /**
  * 酒店管理接口

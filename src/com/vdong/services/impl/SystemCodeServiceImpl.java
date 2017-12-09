@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import com.vdong.dao.SystemCodeDao;
 import com.vdong.services.SystemCodeService;
 
-import dycm.bean.Attach;
+import com.vdong.bean.Attach;
 
 @Service("systemCodeService")
 public class SystemCodeServiceImpl implements SystemCodeService {

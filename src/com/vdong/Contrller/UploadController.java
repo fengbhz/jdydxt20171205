@@ -12,8 +12,8 @@ import org.springframework.web.multipart.MultipartFile;
 
 import com.vdong.services.SystemCodeService;
 
-import dycm.bean.Attach;
-import dycm.bean.Msg;
+import com.vdong.bean.Attach;
+import com.vdong.bean.Msg;
 
 /**
  * 文件上传处理

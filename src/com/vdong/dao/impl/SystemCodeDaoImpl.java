@@ -20,7 +20,7 @@ import org.springframework.stereotype.Repository;
 import com.vdong.dao.SystemCodeDao;
 import com.mysql.jdbc.Statement;
 
-import dycm.bean.Attach;
+import com.vdong.bean.Attach;
 
 @Repository("systemCodeDao")
 @SuppressWarnings( { "rawtypes", "unchecked" })

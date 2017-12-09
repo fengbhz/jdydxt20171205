@@ -1,4 +1,4 @@
-package dycm.bean;
+package com.vdong.bean;
 
 import java.io.Serializable;
 

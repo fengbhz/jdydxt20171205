@@ -19,7 +19,7 @@ import org.springframework.stereotype.Controller;
 import com.vdong.Message.SendMessage;
 import com.vdong.services.OrderManagerService;
 
-import dycm.bean.LoginUser;
+import com.vdong.bean.LoginUser;
 
 
 

@@ -5,7 +5,7 @@ import java.util.Properties;
 
 import org.springframework.core.io.ClassPathResource;
 
-import dycm.bean.PropertiesBean;
+import com.vdong.bean.PropertiesBean;
 
 public class ReadProperties {
 

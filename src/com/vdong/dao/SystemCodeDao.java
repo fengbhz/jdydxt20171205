@@ -3,7 +3,7 @@ package com.vdong.dao;
 import java.util.List;
 import java.util.Map;
 
-import dycm.bean.Attach;
+import com.vdong.bean.Attach;
 
 public interface SystemCodeDao {
 	/**

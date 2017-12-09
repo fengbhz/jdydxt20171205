@@ -1,21 +1,24 @@
-package dycm.bean;
+package com.vdong.bean;
 
-public class Fkdate {
+public class QuickMark {
 	private int id;
-	private String yjrdm;
+	private  String yjrdm;
 	private String yjrjgdm;
-	private String appid;
-	private String addtime;
-	private String statue;
-	public int getId() {
-		return id;
-	}
-	public void setId(int id) {
-		this.id = id;
-	}
+    private String pic;
+    private String username;
+    private String statue;
 	public String getYjrdm() {
 		return yjrdm;
 	}
+	
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
 	public void setYjrdm(String yjrdm) {
 		this.yjrdm = yjrdm;
 	}
@@ -25,24 +28,27 @@ public class Fkdate {
 	public void setYjrjgdm(String yjrjgdm) {
 		this.yjrjgdm = yjrjgdm;
 	}
-	public String getAppid() {
-		return appid;
+	public String getPic() {
+		return pic;
 	}
-	public void setAppid(String appid) {
-		this.appid = appid;
+	public void setPic(String pic) {
+		this.pic = pic;
 	}
-	public String getAddtime() {
-		return addtime;
+	
+	public String getUsername() {
+		return username;
 	}
-	public void setAddtime(String addtime) {
-		this.addtime = addtime;
+
+	public void setUsername(String username) {
+		this.username = username;
 	}
+
 	public String getStatue() {
 		return statue;
 	}
 	public void setStatue(String statue) {
 		this.statue = statue;
 	}
-	
+    
 
 }

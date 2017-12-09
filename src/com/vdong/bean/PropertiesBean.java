@@ -1,4 +1,4 @@
-package dycm.bean;
+package com.vdong.bean;
 
 /**
  * 配置文件
